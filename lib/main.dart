@@ -77,7 +77,7 @@ class CVApp extends StatelessWidget {
                         Icons.phone,
                         color: Colors.blueGrey,
                       ),
-                      title: Text('+966 5342 25804'),
+                      title: Text('+966 5656 654654'),
                     ),
                   ),
                   Card(
@@ -86,7 +86,7 @@ class CVApp extends StatelessWidget {
                         Icons.email,
                         color: Colors.blueGrey,
                       ),
-                      title: Text('RyanGadhi@yahoo.com'),
+                      title: Text('RyanGadhi@somthing.com'),
                     ),
                   ),
                 ],
