@@ -1,6 +1,7 @@
 # cv
 
-A new Flutter project.
+A flutter app to show a simple buisness card.
 
 ## Sample Image
+
 
